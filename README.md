@@ -1,2 +1,0 @@
-# Store
-Ecommerce with Angular
